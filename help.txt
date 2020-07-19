@@ -1,0 +1,5 @@
+header 202020
+sidebar 212121
+main 181818
+serach bar 121212
+search box 323232
